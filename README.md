@@ -1,5 +1,5 @@
 # Convert JPG ↔ PDF
 
-GUI tool in Python for converting between JPG images and PDF files, with the following features:
+GUI tool in Python for converting between JPG images and PDF files.
 
 
